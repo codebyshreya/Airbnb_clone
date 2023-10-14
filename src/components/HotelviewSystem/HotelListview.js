@@ -11,8 +11,8 @@ const HotelListview = () => {
     <div className="row">
       <div className="col-lg-12">
         <ul className="list-none d-flex " style={{ listStyle: "none" }}>
-          <li className="px-2 cursor-pointer">Farms</li>
-          <li className="px-2">Rooms</li>
+          <li className="px-2 cursor-pointer">Farms!!</li>
+          <li className="px-2">Rooms..</li>
         </ul>
       </div>
       {hotellists.map((item) => (
