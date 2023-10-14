@@ -32,7 +32,7 @@ const Header = () => {
           </div>
           <div className="col-lg-4 text-end justify-space-between">
             <span className="mx-4">Wishlist{wishlists.length}</span>
-            <Link to="/signup">Signin</Link>
+            <Link to="/signup">Signin/signup</Link>
           </div>
         </div>
       </div>
